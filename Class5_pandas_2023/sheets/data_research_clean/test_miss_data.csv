@@ -1,0 +1,14 @@
+state,value,value1,num_miss,999_is_NA,score
+normal,50,a,,5,1
+missing,,b,70,2,2
+input_na,na,c,40,999,3
+input_Na,Na,,,6,4
+input_NA,NA,b,500,2,5
+input_NaN,NaN,c,,5,6
+input_nan,nan,a,40,2,7
+input_NAN,NAN,,75,6,8
+input_NAn,NAn,c,750,5,9
+input_None,None,a,50,999,10
+input_none,none,b,,999,11
+input_NaT,NaT,,75,5,12
+input_inf,inf,a,,999,13
